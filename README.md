@@ -40,19 +40,19 @@ This Android project utilizes the following libraries:
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/1.png)
+![Screenshot 1](/screenshots/1.jpg)
 - Description of the first screenshot (e.g., Asking for permissions).
 
-![Screenshot 2](/screenshots/2.png)
+![Screenshot 2](/screenshots/2.jpg)
 - Description of the second screenshot (e.g., Asking for permissions).
 
-![Screenshot 3](/screenshots/3.png)
+![Screenshot 3](/screenshots/3.jpg)
 - Description of the third screenshot (e.g., List of encrypted items).
 
-![Screenshot 4](/screenshots/4.png)
+![Screenshot 4](/screenshots/4.jpg)
 - Description of the fourth screenshot (e.g., Displaying encrypted image ).
 
-![Screenshot 5](/screenshots/5.png)
+![Screenshot 5](/screenshots/5.jpg)
 - Description of the fifth screenshot (e.g., isplaying encrypted video ).
 
 ![Screenshot 6](/screenshots/6.png)
